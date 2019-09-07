@@ -10,7 +10,7 @@
   padding-left: 24px;
   border: none;
   border-radius: $border-radius;
-  background-color: color(blue-100);
+  background-color: color(green-100);
   color: color(white-100);
   font-size: 18px;
   line-height: division(26, 18);
@@ -18,7 +18,7 @@
     background-color: color(blue-110);
   }
   &:active {
-    background-color: color(blue-120);
+    background-color: color(blue2-120);
   }
 }
 .main-btn--xs {
